@@ -20,7 +20,7 @@ WHITE = (255, 255, 255)
 #Other Variables for use in the program
 SCREEN_WIDTH = 400
 SCREEN_HEIGHT = 600
-SPEED = 5
+SPEED = 20
 SCORE = 0
 
 #Setting up Fonts
